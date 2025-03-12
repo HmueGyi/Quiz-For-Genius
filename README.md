@@ -1,4 +1,4 @@
-# Genius Quiz Web Application
+# Quiz For Genius
 
 ## Overview
 The **Genius Quiz Web Application** is a fun and interactive quiz game designed to help users test their intellectual abilities. The application is responsive, built with HTML, CSS, Bootstrap for design, and JavaScript for interactive features. The quiz contains multiple categories that users can choose from to challenge themselves.
