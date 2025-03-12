@@ -73,13 +73,7 @@ The **About** section is currently a placeholder but will be updated to include 
 
 ### 3. Game Section
 In the **Game** section, users can select their desired quiz category. Some categories include:
-- Primary
-- Secondary
-- Success
-- Danger
-- Warning
-- Info
-- Dark
+
 
 Each button represents a category that users can choose to start the quiz.
 
