@@ -1,0 +1,27 @@
+D:\C# practices\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll.config
+D:\C# practices\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll
+D:\C# practices\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.pdb
+D:\C# practices\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csprojResolveAssemblyReference.cache
+D:\C# practices\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.dll
+D:\C# practices\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.pdb
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll.config
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.pdb
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csproj.AssemblyReference.cache
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.dll
+C:\Users\Phwe Nge\Downloads\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.pdb
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll.config
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.pdb
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csproj.AssemblyReference.cache
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csproj.CoreCompileInputs.cache
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.dll
+D:\C#\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.pdb
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll.config
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.pdb
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csproj.AssemblyReference.cache
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.csproj.CoreCompileInputs.cache
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.dll
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.pdb

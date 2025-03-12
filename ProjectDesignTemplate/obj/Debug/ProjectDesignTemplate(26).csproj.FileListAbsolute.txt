@@ -1,0 +1,7 @@
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll.config
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.dll
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\bin\ProjectDesignTemplate.pdb
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate(26).csproj.AssemblyReference.cache
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate(26).csproj.CoreCompileInputs.cache
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.dll
+D:\C#\Hmue(C#)\ProjectDesignTemplate\ProjectDesignTemplate\obj\Debug\ProjectDesignTemplate.pdb
