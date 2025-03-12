@@ -1,6 +1,3 @@
-Here is a more detailed and complete `README.md` file for your project:
-
-```markdown
 # Genius Quiz Web Application
 
 ## Overview
@@ -30,6 +27,7 @@ To set up the project locally, follow the steps below:
 Clone this repository to your local machine using the following command:
 ```bash
 git clone <repository_url>
+
 ```
 
 ### 2. Open the `index.html`
