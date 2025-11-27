@@ -62,9 +62,8 @@ The project is built using ASP.NET Web Forms and follows a modular structure:
 
 For more details, refer to the `ARCHITECTURE.md` file.
 
-## Screenshots
+## LOGO
 ![Quiz Logo](pic/quiz-logo.png)
-![Admin Panel](pic/person.jpg)
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
